@@ -4,13 +4,17 @@ An interactive web application that calculates the volume of geometric shapes ba
 <br>
 
 🛠️ Project Setup & Initialization
+<br>
 npm install
+<br>
 Installs all dependencies listed in package.json.
 
 <br> 
 
 ⚙️ Tech Stack
+<br>
 🧱 Frontend Development
+<br>
 Technology	Purpose
 React	Built the user interface using reusable components
 Vite	Provided fast development server and build tool
